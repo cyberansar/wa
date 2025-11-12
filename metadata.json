@@ -1,0 +1,7 @@
+{
+  "name": "Quick WhatsApp Chat",
+  "description": "A Progressive Web App (PWA) that allows users to start a WhatsApp chat by phone number without saving it to their contacts. It features QR code generation, AI-powered message creation, and voice-to-text transcription using the Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
